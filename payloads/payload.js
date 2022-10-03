@@ -1,3 +1,3 @@
 <script>
-console.log("Hello world!");
+console.log("A JavaScript Payload");
 </script>
